@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Striverx';
+    src: url('/assets/fonts/Striverx.ttf');
+}
+
+.nav-img {
+    width: 40px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#cardPackage{
+    padding-top: 4rem;
+}
+.card {
+    background-color: #283138;
+    color: white;
+    margin-top: 30px;
+}
+#col-card{
+
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px;
+}
+.p-about{
+    color: white;
+}
+#destination {
+   padding-top: 5rem;
+}
+#title-destination{
+    margin-bottom: 4rem;
+}
+
+#head-text {
+    font-family: Striverx;
+    font-size: 100px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#btn-get-started {
+    border-radius: 30px;
+    margin-top: 25px;
+}
+
+.booking {
+    color: white;
+}
+
+body {
+    background-color: #1b262c;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+
+#about{
+    padding-top: 5rem;
+    height: 100vh;
+}
+footer {
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    height: 50px;
+    background-color: #283138;
+}
+#content{
+    margin-bottom: 6rem;
+}
+.jumbotron {
+    background: linear-gradient(#eb01a500, #1b262c), url('/assets/images/kawah-ijen.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    color: white;
+    height: 100vh;
+    border-radius: 0px;
+    padding-top: 20rem;
+    margin-top: 0px;
+}
+
+
+#lightMode {
+    background-color: #e4fbff;
+    color: #1b262c;
+}
+
+#lightMode .jumbotron {
+    background: linear-gradient(#e4fbff00, #e4fbff), url('/assets/images/kawah-ijen.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    color: black;
+    height: 100vh;
+    border-radius: 0px;
+    padding-top: 20rem;
+    margin-top: 0px;
+}
+#lightMode .p-about{
+    color: black;
+}
+#lightMode #head-desc {
+    color: #1b262c;
+  
+}
+
+#lightMode .title {
+    text-align: center;
+    margin-top: 6rem;
+    color: #1b262c;
+}
+
+#lightMode .booking {
+    margin-top: 6rem;
+    color: #1b262c;
+}
+
+#lightMode .card {
+    background-color: white;
+    color: #1b262c;
+}
+
+#lightMode #dropdownMenuButton2 {
+    background-color: #0d6efd;
+    color: white;
+}
+
+#lightMode .dropdown-menu {
+    background-color: #0d6efd;
+    color: white;
+}

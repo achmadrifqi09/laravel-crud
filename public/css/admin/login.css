@@ -1,0 +1,14 @@
+@media (max-width: 767.98px) { 
+    #img-login{
+        width: 90px;
+    }
+ }
+ @media (min-width: 768px) { 
+    #img-login{
+        width: 120px;
+    }
+  }
+
+  .container{
+      margin-top: 10rem;
+  }
